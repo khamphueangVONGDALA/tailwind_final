@@ -1,0 +1,7 @@
+/* @layer ultilities{
+    text-s{
+        @apply text-base;
+        fontSize:30px,
+        lineHeight:10px
+    }
+} */
